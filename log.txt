@@ -1,0 +1,10 @@
+3/20 (current, uncommitted)
+combining the Processing and Python code. moved serial functionality over to Python, etc.
+next, will work on breaking Python code into functions for readability.
+then will actually write those functions and test.
+making major changes to file/folder/etc arrangement
+3/19
+program consists of Arduino -> Processing -> Python code.
+functional except machine learning bits which aren't totally implemented.
+Arduino writes to serial, Processing reads serial and writes to file, Python reads file and makes predictions etc
+will work on switching over Processing code as Python also has serial functions.
